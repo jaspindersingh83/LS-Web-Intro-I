@@ -1,0 +1,34 @@
+body{
+	background-color: white;
+	margin-right: 450px;
+	margin-left: 450px;
+}
+
+.row{
+	width: 100%;
+}
+
+.top{
+	background-color: red;
+	height: 100px;
+}
+.bottom{
+	background-color: green;
+	height: 600px;
+}
+.column{
+	width: 33.33%;
+	height: 500px;
+	float:left;
+}
+.left{
+	background-color: blue;
+}
+
+.center{
+	background-color: purple;	
+}
+
+.right{
+	background-color: yellow;
+}

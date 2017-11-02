@@ -1,0 +1,62 @@
+body{
+	background-color: white;
+	margin-right: 450px;
+	margin-left: 450px;
+
+}
+
+.row{
+	width: 100%;
+}
+
+.top{
+	background-color: purple;
+	height: 100px;
+}
+
+.container{
+	width: 80%;
+	background-color: red;
+	height: 590px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+.box{
+	width: 65%;
+	background-color: blue;
+	height: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	overflow: auto;
+
+}
+
+.yellow_box{
+	width: 25%;
+	background-color: yellow;
+	height: 50%;
+	margin-left: 20px;
+	margin-top: 20px;
+	float: left;
+
+}
+
+.green_box{
+	width: 55%;
+	background-color: green;
+	height: 70%;
+	margin-right: 20px;
+	margin-top: 20px;
+	float: left;
+}
+
+.dummy_box{
+	width: 10px;
+	background-color: blue;
+	height: 100%;
+	float: left;
+
+}

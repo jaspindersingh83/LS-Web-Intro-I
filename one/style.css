@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+	margin-right: 450px;
+	margin-left: 450px;
+}
+
+
+
+.top{
+	background-color: red;
+	height: 100px;
+	width: 100%
+}
+.bottom{
+	background-color: yellow;
+	width: 100%;
+	height:550px;
+}
+.column_blue{
+	width: 70%;
+	background-color: blue;
+	height: 500px;
+	margin: auto;
+	height:480px;
+}
+
+.column_green{
+	width: 70%;
+	background-color: green;
+	height: 500px;
+	margin: auto;
+	height:70px;
+}
